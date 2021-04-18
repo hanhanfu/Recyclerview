@@ -1,0 +1,47 @@
+package com.example.recyclerview.beans;
+import com.example.recyclerview.R;
+
+
+public class Datas {
+    public static int[] icons = {
+            R.mipmap.p_1,
+            R.mipmap.p_2,
+            R.mipmap.p_3,
+            R.mipmap.p_4,
+            R.mipmap.p_5,
+            R.mipmap.p_6,
+            R.mipmap.p_7,
+            R.mipmap.p_8,
+            R.mipmap.p_9,
+            R.mipmap.p_10,
+            R.mipmap.p_1,
+            R.mipmap.p_5,
+            R.mipmap.p_3,
+            R.mipmap.p_1,
+            R.mipmap.p_2,
+            R.mipmap.p_3,
+            R.mipmap.p_4,
+            R.mipmap.p_5,
+            R.mipmap.p_6,
+            R.mipmap.p_7,
+            R.mipmap.p_8,
+            R.mipmap.p_9,
+            R.mipmap.p_10,
+            R.mipmap.p_1,
+            R.mipmap.p_5,
+            R.mipmap.p_3,
+            R.mipmap.p_1,
+            R.mipmap.p_2,
+            R.mipmap.p_3,
+            R.mipmap.p_4,
+            R.mipmap.p_5,
+            R.mipmap.p_6,
+            R.mipmap.p_7,
+            R.mipmap.p_8,
+            R.mipmap.p_9,
+            R.mipmap.p_10,
+            R.mipmap.p_1,
+            R.mipmap.p_5,
+            R.mipmap.p_3,
+            R.mipmap.p_8};
+}
